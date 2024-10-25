@@ -1,0 +1,26 @@
+.sidebar {
+    transform: translateX(100%);
+    transition: transform 0.3s ease;
+  }
+  .sidebar.open {
+    transform: translateX(0);
+  }
+  .postbox__nav {
+    z-index: 10; /* Đảm bảo nút nằm trên ảnh */
+}
+
+.postbox__nav button {
+    background-color: rgba(255, 255, 255, 0.8); /* Nền trắng với độ trong suốt */
+    border: 2px solid rgba(0, 0, 0, 0.3); /* Viền màu đen với độ trong suốt */
+}
+
+.postbox__nav button:hover {
+    background-color: rgba(255, 255, 255, 1); /* Nền trắng đầy đủ khi hover */
+}
+.overlay {
+display: none; /* Ẩn overlay mặc định */
+}
+
+.overlay.show {
+display: flex; /* Hiện overlay khi cần */
+}

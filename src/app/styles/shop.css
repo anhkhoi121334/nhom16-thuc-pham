@@ -1,0 +1,24 @@
+.product-action-btn {
+    position: relative; /* Định vị tương đối để thẻ span nằm trong cùng context */
+}
+
+.product-action-btn span {
+    position: absolute; /* Định vị tuyệt đối cho thẻ span */
+    bottom: 100%; /* Đặt thẻ span ở trên cùng của nút */
+    left: 50%; /* Đặt thẻ span vào giữa nút */
+    transform: translateX(-50%); /* Căn chỉnh giữa */
+    opacity: 0; /* Ẩn span ban đầu */
+    transition: opacity 0.2s, bottom 0.2s; /* Thêm hiệu ứng chuyển đổi */
+    white-space: nowrap; /* Tránh xuống dòng văn bản */
+    background-color: black; /* Màu nền */
+    color: white; /* Màu chữ */
+    padding: 5px 10px; /* Khoảng cách bên trong span */
+    border-radius: 5px; /* Bo góc cho span */
+    z-index: 20; /* Đảm bảo span nằm trên icon */
+    pointer-events: none; /* Để không can thiệp vào sự kiện hover của nút */
+}
+
+.product-action-btn:hover span {
+    opacity: 1; /* Hiển thị span khi hover */
+    bottom: 120%; /* Đẩy span lên trên icon */
+}

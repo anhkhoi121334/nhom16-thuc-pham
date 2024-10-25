@@ -1,0 +1,117 @@
+   /* Ẩn sidebar mặc định */
+   .sidebar {
+    transform: translateX(100%);
+    transition: transform 0.3s ease;
+  }
+  .sidebar.open {
+    transform: translateX(0);
+  }
+  .postbox__nav {
+    z-index: 10; /* Đảm bảo nút nằm trên ảnh */
+}
+
+.postbox__nav button {
+    background-color: rgba(255, 255, 255, 0.8); /* Nền trắng với độ trong suốt */
+    border: 2px solid rgba(0, 0, 0, 0.3); /* Viền màu đen với độ trong suốt */
+}
+
+.postbox__nav button:hover {
+    background-color: rgba(255, 255, 255, 1); /* Nền trắng đầy đủ khi hover */
+}
+.overlay {
+display: none; /* Ẩn overlay mặc định */
+}
+
+.overlay.show {
+display: flex; /* Hiện overlay khi cần */
+}
+
+body {
+  font-family: "Sora", sans-serif;
+  background-color:  white;
+}
+td,
+th {
+  width: 150px; /* Hoặc kích thước bạn muốn */
+  height: 50px; /* Hoặc kích thước bạn muốn */
+  text-align: center; /* Căn giữa nội dung */
+  padding: 0.5rem;
+}
+/* Cấu hình bullet cơ bản */
+.swiper-pagination-bullet {
+  width: 1rem; /* w-4 */
+  height: 1rem; /* h-4 */
+  background-color: #b29a80; /* bg-[#B29A80] */
+  opacity: 0.5; /* opacity-50 */
+  border-radius: 9999px; /* rounded-full */
+  transition: all 300ms ease-in-out; /* animation */
+}
+
+/* Bullet khi active */
+.swiper-pagination-bullet-active {
+  background-color: #b18b5e; /* bg-[#F5F1E6] */
+  opacity: 1; /* opacity-100 */
+  transform: scale(1.25); /* phóng to bullet */
+}
+.swiper-pagination {
+  z-index: 10; /* Giảm z-index để các nút không bị chồng lên */
+}
+button {
+  position: relative;
+  z-index: 20; /* Đảm bảo nút có z-index cao hơn swiper-pagination */
+}
+.product-action-btn {
+  position: relative; /* Định vị tương đối để thẻ span nằm trong cùng context */
+}
+
+.product-action-btn span {
+  position: absolute; /* Định vị tuyệt đối cho thẻ span */
+  bottom: 100%; /* Đặt thẻ span ở trên cùng của nút */
+  left: 50%; /* Đặt thẻ span vào giữa nút */
+  transform: translateX(-50%); /* Căn chỉnh giữa */
+  opacity: 0; /* Ẩn span ban đầu */
+  transition: opacity 0.2s, bottom 0.2s; /* Thêm hiệu ứng chuyển đổi */
+  white-space: nowrap; /* Tránh xuống dòng văn bản */
+  background-color: black; /* Màu nền */
+  color: white; /* Màu chữ */
+  padding: 5px 10px; /* Khoảng cách bên trong span */
+  border-radius: 5px; /* Bo góc cho span */
+  z-index: 20; /* Đảm bảo span nằm trên icon */
+  pointer-events: none; /* Để không can thiệp vào sự kiện hover của nút */
+}
+
+.product-action-btn:hover span {
+  opacity: 1; /* Hiển thị span khi hover */
+  bottom: 120%; /* Đẩy span lên trên icon */
+}
+.furniture-testimonial__item {
+transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+opacity: 0; /* Bắt đầu với độ mờ 0 */
+transform: translateY(20px); /* Đẩy card xuống 20px */
+}
+
+.furniture-testimonial__item.active {
+opacity: 1; /* Khi active, độ mờ là 1 */
+transform: translateY(0); /* Đưa card về vị trí ban đầu */
+}
+
+
+.carousel-container {
+overflow: hidden; /* Ẩn các card không hiển thị */
+}
+#productItems {
+display: flex;
+transition: transform 1s ease-in-out;
+}
+.hidden {
+display: none; /* Ẩn các sản phẩm có lớp 'hidden' */
+}
+
+/* Đảm bảo rằng container của sản phẩm không có khoảng cách thừa */
+#product-slider .product-item {
+min-width: 0; /* Để đảm bảo sản phẩm không chiếm nhiều không gian */
+}
+
+
+
+

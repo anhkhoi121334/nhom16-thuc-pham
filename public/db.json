@@ -1,0 +1,1106 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Alexander Roll Arm Sofa",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product3.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "30.35",
+      "price_sale": "19.25",
+      "discount": "37%",
+      "short_description": "Modern and comfortable sofa.",
+      "sku": "BO1DOMX8SJ1",
+      "categories": ["Furniture", "Living Room"],
+      "tags": ["Sofa", "Modern", "Comfortable"],
+      "long_description": "This is a high-quality roll arm sofa, perfect for your living room.",
+      "additional_information": {
+        "weight": "45 lbs",
+        "dimensions": "80 × 35 × 30 in",
+        "product": "Available at furniture-shop.com",
+        "color": ["Blue", "Gray"],
+        "size": ["Large"],
+        "model": "Model X",
+        "shipping": "Free shipping available",
+        "care_info": "Spot clean only",
+        "brand": "Alexander"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Modern Lounge Chair",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product1.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "50.00",
+      "price_sale": "35.00",
+      "discount": "10%",
+      "short_description": "Stylish and cozy lounge chair.",
+      "sku": "BO1DOMX8SJ2",
+      "categories": ["Furniture", "Chair"],
+      "tags": ["Chair", "Lounge", "Comfortable"],
+      "long_description": "This lounge chair combines style and comfort, making it a great addition to any room.",
+      "additional_information": {
+        "weight": "20 lbs",
+        "dimensions": "35 × 30 × 40 in",
+        "product": "Available at chair-store.com",
+        "color": ["Gray", "Black"],
+        "size": ["Medium"],
+        "model": "Model A",
+        "shipping": "Standard shipping: $10.00",
+        "care_info": "Machine washable cover",
+        "brand": "LoungeMaster"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Ergonomic Office Chair",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product2.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "120.00",
+      "price_sale": "90.00",
+      "discount": "30%",
+      "short_description": "Comfortable office chair with ergonomic design.",
+      "sku": "BO1DOMX8SJ3",
+      "categories": ["Office", "Chair"],
+      "tags": ["Chair", "Office", "Ergonomic"],
+      "long_description": "A perfect office chair that provides comfort and support for long work hours.",
+      "additional_information": {
+        "weight": "25 lbs",
+        "dimensions": "28 × 28 × 45 in",
+        "product": "Available at officeworld.com",
+        "color": ["Black"],
+        "size": ["Adjustable"],
+        "model": "Model E",
+        "shipping": "Standard shipping: $15.00",
+        "care_info": "Clean with dry cloth",
+        "brand": "OfficePro"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Leather Recliner",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product3.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "500.00",
+      "price_sale": "450.00",
+      "discount": "17%",
+      "short_description": "Luxury leather recliner for ultimate relaxation.",
+      "sku": "BO1DOMX8SJ4",
+      "categories": ["Furniture", "Recliner"],
+      "tags": ["Recliner", "Leather", "Luxury"],
+      "long_description": "This recliner is crafted from the finest leather and provides the ultimate relaxation experience.",
+      "additional_information": {
+        "weight": "60 lbs",
+        "dimensions": "42 × 36 × 38 in",
+        "product": "Available at recliner-shop.com",
+        "color": ["Brown", "Black"],
+        "size": ["Large"],
+        "model": "Model L",
+        "shipping": "Free shipping",
+        "care_info": "Wipe with leather cleaner",
+        "brand": "LuxuryComfort"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Dining Table Set",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product4.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "700.00",
+      "price_sale": "600.00",
+      "discount": "10%",
+      "short_description": "Stylish dining table set with 6 chairs.",
+      "sku": "BO1DOMX8SJ5",
+      "categories": ["Furniture", "Dining"],
+      "tags": ["Dining", "Table", "Set"],
+      "long_description": "Elegant dining table set perfect for family gatherings.",
+      "additional_information": {
+        "weight": "100 lbs",
+        "dimensions": "72 × 40 × 30 in",
+        "product": "Available at dining-world.com",
+        "color": ["Walnut", "White"],
+        "size": ["Large"],
+        "model": "Model T",
+        "shipping": "Free shipping",
+        "care_info": "Wipe clean with damp cloth",
+        "brand": "ElegantHome"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Compact Coffee Table",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product2.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "150.00",
+      "price_sale": "120.00",
+      "discount": "15%",
+      "short_description": "Modern coffee table for small spaces.",
+      "sku": "BO1DOMX8SJ6",
+      "categories": ["Furniture", "Table"],
+      "tags": ["Coffee Table", "Compact", "Modern"],
+      "long_description": "This compact coffee table is ideal for smaller living rooms and apartments.",
+      "additional_information": {
+        "weight": "20 lbs",
+        "dimensions": "30 × 20 × 18 in",
+        "product": "Available at table-furniture.com",
+        "color": ["Oak", "Black"],
+        "size": ["Small"],
+        "model": "Model C",
+        "shipping": "Standard shipping: $10.00",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "CompactLiving"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Wooden TV Stand",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product2.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "300.00",
+      "price_sale": "250.00",
+      "discount": "21%",
+      "short_description": "Stylish wooden TV stand with storage.",
+      "sku": "BO1DOMX8SJ7",
+      "categories": ["Furniture", "TV Stand"],
+      "tags": ["TV Stand", "Wooden", "Storage"],
+      "long_description": "This wooden TV stand offers both style and functionality with ample storage space.",
+      "additional_information": {
+        "weight": "40 lbs",
+        "dimensions": "50 × 20 × 24 in",
+        "product": "Available at tv-furniture.com",
+        "color": ["Walnut"],
+        "size": ["Medium"],
+        "model": "Model W",
+        "shipping": "Free shipping",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "HomeEssentials"
+      }
+    },
+
+    {
+      "id": 8,
+      "name": "Luxury Outdoor Patio Set",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product1.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "850.00",
+      "price_sale": "750.00",
+      "discount": "20%",
+      "short_description": "High-quality outdoor patio set with 6 chairs and a table.",
+      "sku": "BO1DOMX8SJ8",
+      "categories": ["Outdoor", "Furniture"],
+      "tags": ["Patio", "Luxury", "Durable"],
+      "long_description": "This luxury patio set is perfect for your outdoor dining experience, crafted from weather-resistant materials.",
+      "additional_information": {
+        "weight": "90 lbs",
+        "dimensions": "72 × 72 × 40 in",
+        "color": ["Gray", "Beige"],
+        "size": ["Large"],
+        "model": "PatioMaster XL",
+        "shipping": "Free shipping",
+        "care_info": "Wipe clean with damp cloth",
+        "brand": "PatioKing"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Modern Sectional Sofa",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product4.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "1200.00",
+      "price_sale": "1050.00",
+      "discount": "10%",
+      "short_description": "Spacious modern sectional sofa with chaise.",
+      "sku": "BO1DOMX8SJ9",
+      "categories": ["Furniture", "Living Room"],
+      "tags": ["Sofa", "Sectional", "Modern"],
+      "long_description": "This sectional sofa offers both comfort and style, with its modern design and spacious seating.",
+      "additional_information": {
+        "weight": "180 lbs",
+        "dimensions": "100 × 40 × 35 in",
+        "color": ["Dark Gray"],
+        "size": ["Large"],
+        "model": "SecMaster 3000",
+        "shipping": "Free shipping",
+        "care_info": "Spot clean only",
+        "brand": "SofaWorld"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Vintage Wooden Coffee Table",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product3.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "300.00",
+      "price_sale": "270.00",
+      "discount": "7%",
+      "short_description": "Elegant vintage coffee table with intricate details.",
+      "sku": "BO1DOMX8SJ10",
+      "categories": ["Furniture", "Living Room"],
+      "tags": ["Coffee Table", "Vintage", "Wooden"],
+      "long_description": "A beautifully crafted vintage coffee table with intricate wooden detailing, perfect for any classic home decor.",
+      "additional_information": {
+        "weight": "45 lbs",
+        "dimensions": "50 × 30 × 18 in",
+        "color": ["Walnut"],
+        "size": ["Medium"],
+        "model": "VintagePro V1",
+        "shipping": "Standard shipping: $20.00",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "VintageHome"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Classic Dining Chair Set",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product1.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "500.00",
+      "price_sale": "450.00",
+      "discount": "12%",
+      "short_description": "Set of 4 classic wooden dining chairs.",
+      "sku": "BO1DOMX8SJ11",
+      "categories": ["Furniture", "Dining Room"],
+      "tags": ["Dining Chairs", "Wooden", "Classic"],
+      "long_description": "These classic wooden dining chairs are perfect for adding a timeless touch to your dining room.",
+      "additional_information": {
+        "weight": "60 lbs",
+        "dimensions": "18 × 18 × 36 in",
+        "color": ["Brown"],
+        "size": ["Medium"],
+        "model": "ChairMaster Classic",
+        "shipping": "Standard shipping: $15.00",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "ClassicLiving"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Ergonomic Office Desk",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product2.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "400.00",
+      "price_sale": "350.00",
+      "discount": "18%",
+      "short_description": "Adjustable ergonomic office desk with cable management.",
+      "sku": "BO1DOMX8SJ12",
+      "categories": ["Office", "Furniture"],
+      "tags": ["Desk", "Ergonomic", "Adjustable"],
+      "long_description": "This ergonomic office desk features an adjustable height and built-in cable management for a clean workspace.",
+      "additional_information": {
+        "weight": "80 lbs",
+        "dimensions": "60 × 30 × 30 in",
+        "color": ["Black", "White"],
+        "size": ["Adjustable"],
+        "model": "DeskMaster Pro",
+        "shipping": "Standard shipping: $30.00",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "OfficePro"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Luxury Leather Office Chair",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product4.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "600.00",
+      "price_sale": "550.00",
+      "discount": "14%",
+      "short_description": "Comfortable leather office chair with adjustable height.",
+      "sku": "BO1DOMX8SJ13",
+      "categories": ["Office", "Furniture"],
+      "tags": ["Office Chair", "Leather", "Ergonomic"],
+      "long_description": "This luxury leather office chair provides exceptional comfort and support for long working hours.",
+      "additional_information": {
+        "weight": "35 lbs",
+        "dimensions": "30 × 28 × 45 in",
+        "color": ["Black"],
+        "size": ["Adjustable"],
+        "model": "ChairPro XL",
+        "shipping": "Free shipping",
+        "care_info": "Clean with leather cleaner",
+        "brand": "OfficeKing"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Luxury King Bed Frame",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product2.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "1200.00",
+      "price_sale": "1100.00",
+      "discount": "15%",
+      "short_description": "Elegant king-size wooden bed frame.",
+      "sku": "BO1DOMX8SJ14",
+      "categories": ["Furniture", "Bedroom"],
+      "tags": ["Bed", "King", "Wooden"],
+      "long_description": "This luxury king-size bed frame is crafted from high-quality wood, adding elegance to your bedroom.",
+      "additional_information": {
+        "weight": "100 lbs",
+        "dimensions": "85 × 80 × 45 in",
+        "color": ["Walnut"],
+        "size": ["King"],
+        "model": "BedMaster Elite",
+        "shipping": "Free shipping",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "EliteHome"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Luxury Sofa Bed",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product1.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "1500.00",
+      "price_sale": "1350.00",
+      "discount": "26%",
+      "short_description": "Convertible luxury sofa bed with storage.",
+      "sku": "BO1DOMX8SJ15",
+      "categories": ["Furniture", "Living Room"],
+      "tags": ["Sofa Bed", "Convertible", "Luxury"],
+      "long_description": "This luxury sofa bed offers versatility and comfort, with a hidden storage compartment.",
+      "additional_information": {
+        "weight": "150 lbs",
+        "dimensions": "85 × 40 × 35 in",
+        "color": ["Beige"],
+        "size": ["Large"],
+        "model": "SofaPro Comfort",
+        "shipping": "Free shipping",
+        "care_info": "Spot clean only",
+        "brand": "ComfortLiving"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Compact Office Desk",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product3.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "300.00",
+      "price_sale": "250.00",
+      "discount": "29%",
+      "short_description": "Space-saving compact office desk with storage shelves.",
+      "sku": "BO1DOMX8SJ16",
+      "categories": ["Office", "Furniture"],
+      "tags": ["Desk", "Compact", "Storage"],
+      "long_description": "This compact office desk is designed for small spaces, featuring built-in storage shelves for convenience.",
+      "additional_information": {
+        "weight": "50 lbs",
+        "dimensions": "48 × 24 × 30 in",
+        "color": ["White"],
+        "size": ["Small"],
+        "model": "DeskPro Compact",
+        "shipping": "Standard shipping: $15.00",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "CompactLiving"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Luxury Recliner Chair",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product2.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "800.00",
+      "price_sale": "700.00",
+      "discount": "19%",
+      "short_description": "Comfortable luxury recliner chair with adjustable positions.",
+      "sku": "BO1DOMX8SJ17",
+      "categories": ["Furniture", "Living Room"],
+      "tags": ["Recliner", "Luxury", "Comfortable"],
+      "long_description": "This luxury recliner chair provides exceptional comfort, with multiple adjustable reclining positions.",
+      "additional_information": {
+        "weight": "70 lbs",
+        "dimensions": "35 × 35 × 45 in",
+        "color": ["Brown"],
+        "size": ["Large"],
+        "model": "ReclineMaster 4000",
+        "shipping": "Free shipping",
+        "care_info": "Spot clean only",
+        "brand": "RelaxLiving"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Outdoor Patio Set",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product4.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "800.00",
+      "price_sale": "700.00",
+      "discount": "14%",
+      "short_description": "Durable outdoor patio set with 4 chairs and a table.",
+      "sku": "BO1DOMX8SJ8",
+      "categories": ["Outdoor", "Furniture"],
+      "tags": ["Patio Set", "Outdoor", "Durable"],
+      "long_description": "Perfect for outdoor gatherings, this patio set is weather-resistant and comfortable.",
+      "additional_information": {
+        "weight": "75 lbs",
+        "dimensions": "60 × 60 × 36 in",
+        "product": "Available at outdoor-living.com",
+        "color": ["Gray", "Beige"],
+        "size": ["Large"],
+        "model": "Model P",
+        "shipping": "Free shipping",
+        "care_info": "Wipe clean with damp cloth",
+        "brand": "OutdoorMaster"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Luxury King Bed",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product2.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "1000.00",
+      "price_sale": "900.00",
+      "discount": "31%",
+      "short_description": "Luxury king-size bed with wooden frame.",
+      "sku": "BO1DOMX8SJ9",
+      "categories": ["Furniture", "Bedroom"],
+      "tags": ["Bed", "King", "Wooden"],
+      "long_description": "This king-size bed offers luxury and comfort with a sturdy wooden frame.",
+      "additional_information": {
+        "weight": "150 lbs",
+        "dimensions": "85 × 80 × 50 in",
+        "product": "Available at bedroom-furniture.com",
+        "color": ["Brown"],
+        "size": ["King"],
+        "model": "Model K",
+        "shipping": "Free shipping",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "LuxuryHome"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Luxury Bed Family",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product1.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "1000.00",
+      "price_sale": "900.00",
+      "discount": "50%",
+      "short_description": "Luxury king-size bed with wooden frame.",
+      "sku": "BO1DOMX8SJ9",
+      "categories": ["Furniture", "Bedroom"],
+      "tags": ["Bed", "King", "Wooden"],
+      "long_description": "This king-size bed offers luxury and comfort with a sturdy wooden frame.",
+      "additional_information": {
+        "weight": "150 lbs",
+        "dimensions": "85 × 80 × 50 in",
+        "product": "Available at bedroom-furniture.com",
+        "color": ["Brown"],
+        "size": ["King"],
+        "model": "Model K",
+        "shipping": "Free shipping",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "LuxuryHome"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Alexander Roll Arm Sofa",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product2.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "30.35",
+      "price_sale": "19.25",
+      "discount": "19%",
+      "short_description": "Modern and comfortable sofa.",
+      "sku": "BO1DOMX8SJ1",
+      "categories": ["Furniture", "Living Room"],
+      "tags": ["Sofa", "Modern", "Comfortable"],
+      "long_description": "This is a high-quality roll arm sofa, perfect for your living room.",
+      "additional_information": {
+        "weight": "45 lbs",
+        "dimensions": "80 × 35 × 30 in",
+        "product": "Available at furniture-shop.com",
+        "color": ["Blue", "Gray"],
+        "size": ["Large"],
+        "model": "Model X",
+        "shipping": "Free shipping available",
+        "care_info": "Spot clean only",
+        "brand": "Alexander"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Modern Lounge Chair",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product3.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "50.00",
+      "price_sale": "35.00",
+      "discount": "22%",
+      "short_description": "Stylish and cozy lounge chair.",
+      "sku": "BO1DOMX8SJ2",
+      "categories": ["Furniture", "Chair"],
+      "tags": ["Chair", "Lounge", "Comfortable"],
+      "long_description": "This lounge chair combines style and comfort, making it a great addition to any room.",
+      "additional_information": {
+        "weight": "20 lbs",
+        "dimensions": "35 × 30 × 40 in",
+        "product": "Available at chair-store.com",
+        "color": ["Gray", "Black"],
+        "size": ["Medium"],
+        "model": "Model A",
+        "shipping": "Standard shipping: $10.00",
+        "care_info": "Machine washable cover",
+        "brand": "LoungeMaster"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Ergonomic Office Chair",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product4.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "120.00",
+      "price_sale": "90.00",
+      "discount": "23%",
+      "short_description": "Comfortable office chair with ergonomic design.",
+      "sku": "BO1DOMX8SJ3",
+      "categories": ["Office", "Chair"],
+      "tags": ["Chair", "Office", "Ergonomic"],
+      "long_description": "A perfect office chair that provides comfort and support for long work hours.",
+      "additional_information": {
+        "weight": "25 lbs",
+        "dimensions": "28 × 28 × 45 in",
+        "product": "Available at officeworld.com",
+        "color": ["Black"],
+        "size": ["Adjustable"],
+        "model": "Model E",
+        "shipping": "Standard shipping: $15.00",
+        "care_info": "Clean with dry cloth",
+        "brand": "OfficePro"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Leather Recliner",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product1.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "500.00",
+      "price_sale": "450.00",
+      "discount": "24%",
+      "short_description": "Luxury leather recliner for ultimate relaxation.",
+      "sku": "BO1DOMX8SJ4",
+      "categories": ["Furniture", "Recliner"],
+      "tags": ["Recliner", "Leather", "Luxury"],
+      "long_description": "This recliner is crafted from the finest leather and provides the ultimate relaxation experience.",
+      "additional_information": {
+        "weight": "60 lbs",
+        "dimensions": "42 × 36 × 38 in",
+        "product": "Available at recliner-shop.com",
+        "color": ["Brown", "Black"],
+        "size": ["Large"],
+        "model": "Model L",
+        "shipping": "Free shipping",
+        "care_info": "Wipe with leather cleaner",
+        "brand": "LuxuryComfort"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Dining Table Set",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product3.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "700.00",
+      "price_sale": "600.00",
+      "discount": "26%",
+      "short_description": "Stylish dining table set with 6 chairs.",
+      "sku": "BO1DOMX8SJ5",
+      "categories": ["Furniture", "Dining"],
+      "tags": ["Dining", "Table", "Set"],
+      "long_description": "Elegant dining table set perfect for family gatherings.",
+      "additional_information": {
+        "weight": "100 lbs",
+        "dimensions": "72 × 40 × 30 in",
+        "product": "Available at dining-world.com",
+        "color": ["Walnut", "White"],
+        "size": ["Large"],
+        "model": "Model T",
+        "shipping": "Free shipping",
+        "care_info": "Wipe clean with damp cloth",
+        "brand": "ElegantHome"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Compact Coffee Table",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product4.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "150.00",
+      "price_sale": "120.00",
+      "discount": "27%",
+      "short_description": "Modern coffee table for small spaces.",
+      "sku": "BO1DOMX8SJ6",
+      "categories": ["Furniture", "Table"],
+      "tags": ["Coffee Table", "Compact", "Modern"],
+      "long_description": "This compact coffee table is ideal for smaller living rooms and apartments.",
+      "additional_information": {
+        "weight": "20 lbs",
+        "dimensions": "30 × 20 × 18 in",
+        "product": "Available at table-furniture.com",
+        "color": ["Oak", "Black"],
+        "size": ["Small"],
+        "model": "Model C",
+        "shipping": "Standard shipping: $10.00",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "CompactLiving"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Wooden TV Stand",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product2.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "300.00",
+      "price_sale": "250.00",
+      "discount": "28%",
+      "short_description": "Stylish wooden TV stand with storage.",
+      "sku": "BO1DOMX8SJ7",
+      "categories": ["Furniture", "TV Stand"],
+      "tags": ["TV Stand", "Wooden", "Storage"],
+      "long_description": "This wooden TV stand offers both style and functionality with ample storage space.",
+      "additional_information": {
+        "weight": "40 lbs",
+        "dimensions": "50 × 20 × 24 in",
+        "product": "Available at tv-furniture.com",
+        "color": ["Walnut"],
+        "size": ["Medium"],
+        "model": "Model W",
+        "shipping": "Free shipping",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "HomeEssentials"
+      }
+    },
+
+    {
+      "id": 28,
+      "name": "Luxury Outdoor Patio Set",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product1.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "850.00",
+      "price_sale": "750.00",
+      "discount": "29%",
+      "short_description": "High-quality outdoor patio set with 6 chairs and a table.",
+      "sku": "BO1DOMX8SJ8",
+      "categories": ["Outdoor", "Furniture"],
+      "tags": ["Patio", "Luxury", "Durable"],
+      "long_description": "This luxury patio set is perfect for your outdoor dining experience, crafted from weather-resistant materials.",
+      "additional_information": {
+        "weight": "90 lbs",
+        "dimensions": "72 × 72 × 40 in",
+        "color": ["Gray", "Beige"],
+        "size": ["Large"],
+        "model": "PatioMaster XL",
+        "shipping": "Free shipping",
+        "care_info": "Wipe clean with damp cloth",
+        "brand": "PatioKing"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Modern Sectional Sofa",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product4.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "1200.00",
+      "price_sale": "1050.00",
+      "discount": "15%",
+      "short_description": "Spacious modern sectional sofa with chaise.",
+      "sku": "BO1DOMX8SJ9",
+      "categories": ["Furniture", "Living Room"],
+      "tags": ["Sofa", "Sectional", "Modern"],
+      "long_description": "This sectional sofa offers both comfort and style, with its modern design and spacious seating.",
+      "additional_information": {
+        "weight": "180 lbs",
+        "dimensions": "100 × 40 × 35 in",
+        "color": ["Dark Gray"],
+        "size": ["Large"],
+        "model": "SecMaster 3000",
+        "shipping": "Free shipping",
+        "care_info": "Spot clean only",
+        "brand": "SofaWorld"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Vintage Wooden Coffee Table",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product3.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "300.00",
+      "price_sale": "270.00",
+      "discount": "`17%",
+      "short_description": "Elegant vintage coffee table with intricate details.",
+      "sku": "BO1DOMX8SJ10",
+      "categories": ["Furniture", "Living Room"],
+      "tags": ["Coffee Table", "Vintage", "Wooden"],
+      "long_description": "A beautifully crafted vintage coffee table with intricate wooden detailing, perfect for any classic home decor.",
+      "additional_information": {
+        "weight": "45 lbs",
+        "dimensions": "50 × 30 × 18 in",
+        "color": ["Walnut"],
+        "size": ["Medium"],
+        "model": "VintagePro V1",
+        "shipping": "Standard shipping: $20.00",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "VintageHome"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Classic Dining Chair Set",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product1.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "500.00",
+      "price_sale": "450.00",
+      "discount": "28%",
+      "short_description": "Set of 4 classic wooden dining chairs.",
+      "sku": "BO1DOMX8SJ11",
+      "categories": ["Furniture", "Dining Room"],
+      "tags": ["Dining Chairs", "Wooden", "Classic"],
+      "long_description": "These classic wooden dining chairs are perfect for adding a timeless touch to your dining room.",
+      "additional_information": {
+        "weight": "60 lbs",
+        "dimensions": "18 × 18 × 36 in",
+        "color": ["Brown"],
+        "size": ["Medium"],
+        "model": "ChairMaster Classic",
+        "shipping": "Standard shipping: $15.00",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "ClassicLiving"
+      }
+    },
+    {
+      "id": 32,
+      "name": "Ergonomic Office Desk",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product3.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "400.00",
+      "price_sale": "350.00",
+      "discount": "17%",
+      "short_description": "Adjustable ergonomic office desk with cable management.",
+      "sku": "BO1DOMX8SJ12",
+      "categories": ["Office", "Furniture"],
+      "tags": ["Desk", "Ergonomic", "Adjustable"],
+      "long_description": "This ergonomic office desk features an adjustable height and built-in cable management for a clean workspace.",
+      "additional_information": {
+        "weight": "80 lbs",
+        "dimensions": "60 × 30 × 30 in",
+        "color": ["Black", "White"],
+        "size": ["Adjustable"],
+        "model": "DeskMaster Pro",
+        "shipping": "Standard shipping: $30.00",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "OfficePro"
+      }
+    },
+    {
+      "id": 33,
+      "name": "Luxury Leather Office Chair",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product2.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "600.00",
+      "price_sale": "550.00",
+      "discount": "13%",
+      "short_description": "Comfortable leather office chair with adjustable height.",
+      "sku": "BO1DOMX8SJ13",
+      "categories": ["Office", "Furniture"],
+      "tags": ["Office Chair", "Leather", "Ergonomic"],
+      "long_description": "This luxury leather office chair provides exceptional comfort and support for long working hours.",
+      "additional_information": {
+        "weight": "35 lbs",
+        "dimensions": "30 × 28 × 45 in",
+        "color": ["Black"],
+        "size": ["Adjustable"],
+        "model": "ChairPro XL",
+        "shipping": "Free shipping",
+        "care_info": "Clean with leather cleaner",
+        "brand": "OfficeKing"
+      }
+    },
+    {
+      "id": 34,
+      "name": "Luxury King Bed Frame",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product4.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "1200.00",
+      "price_sale": "1100.00",
+      "discount": "29%",
+      "short_description": "Elegant king-size wooden bed frame.",
+      "sku": "BO1DOMX8SJ14",
+      "categories": ["Furniture", "Bedroom"],
+      "tags": ["Bed", "King", "Wooden"],
+      "long_description": "This luxury king-size bed frame is crafted from high-quality wood, adding elegance to your bedroom.",
+      "additional_information": {
+        "weight": "100 lbs",
+        "dimensions": "85 × 80 × 45 in",
+        "color": ["Walnut"],
+        "size": ["King"],
+        "model": "BedMaster Elite",
+        "shipping": "Free shipping",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "EliteHome"
+      }
+    },
+    {
+      "id": 35,
+      "name": "Luxury Sofa Bed",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product1.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "1500.00",
+      "price_sale": "1350.00",
+      "discount": "20%",
+      "short_description": "Convertible luxury sofa bed with storage.",
+      "sku": "BO1DOMX8SJ15",
+      "categories": ["Furniture", "Living Room"],
+      "tags": ["Sofa Bed", "Convertible", "Luxury"],
+      "long_description": "This luxury sofa bed offers versatility and comfort, with a hidden storage compartment.",
+      "additional_information": {
+        "weight": "150 lbs",
+        "dimensions": "85 × 40 × 35 in",
+        "color": ["Beige"],
+        "size": ["Large"],
+        "model": "SofaPro Comfort",
+        "shipping": "Free shipping",
+        "care_info": "Spot clean only",
+        "brand": "ComfortLiving"
+      }
+    },
+    {
+      "id": 36,
+      "name": "Compact Office Desk",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product4.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "300.00",
+      "price_sale": "250.00",
+      "discount": "29%",
+      "short_description": "Space-saving compact office desk with storage shelves.",
+      "sku": "BO1DOMX8SJ16",
+      "categories": ["Office", "Furniture"],
+      "tags": ["Desk", "Compact", "Storage"],
+      "long_description": "This compact office desk is designed for small spaces, featuring built-in storage shelves for convenience.",
+      "additional_information": {
+        "weight": "50 lbs",
+        "dimensions": "48 × 24 × 30 in",
+        "color": ["White"],
+        "size": ["Small"],
+        "model": "DeskPro Compact",
+        "shipping": "Standard shipping: $15.00",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "CompactLiving"
+      }
+    },
+    {
+      "id": 37,
+      "name": "Luxury Recliner Chair",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product1.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "800.00",
+      "price_sale": "700.00",
+      "discount": "19%",
+      "short_description": "Comfortable luxury recliner chair with adjustable positions.",
+      "sku": "BO1DOMX8SJ17",
+      "categories": ["Furniture", "Living Room"],
+      "tags": ["Recliner", "Luxury", "Comfortable"],
+      "long_description": "This luxury recliner chair provides exceptional comfort, with multiple adjustable reclining positions.",
+      "additional_information": {
+        "weight": "70 lbs",
+        "dimensions": "35 × 35 × 45 in",
+        "color": ["Brown"],
+        "size": ["Large"],
+        "model": "ReclineMaster 4000",
+        "shipping": "Free shipping",
+        "care_info": "Spot clean only",
+        "brand": "RelaxLiving"
+      }
+    },
+    {
+      "id": 38,
+      "name": "Outdoor Patio Set",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product3.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "800.00",
+      "price_sale": "700.00",
+      "discount": "12%",
+      "short_description": "Durable outdoor patio set with 4 chairs and a table.",
+      "sku": "BO1DOMX8SJ8",
+      "categories": ["Outdoor", "Furniture"],
+      "tags": ["Patio Set", "Outdoor", "Durable"],
+      "long_description": "Perfect for outdoor gatherings, this patio set is weather-resistant and comfortable.",
+      "additional_information": {
+        "weight": "75 lbs",
+        "dimensions": "60 × 60 × 36 in",
+        "product": "Available at outdoor-living.com",
+        "color": ["Gray", "Beige"],
+        "size": ["Large"],
+        "model": "Model P",
+        "shipping": "Free shipping",
+        "care_info": "Wipe clean with damp cloth",
+        "brand": "OutdoorMaster"
+      }
+    },
+    {
+      "id": 39,
+      "name": "Luxury King Bed",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product3.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "1000.00",
+      "price_sale": "900.00",
+      "discount": "27%",
+      "short_description": "Luxury king-size bed with wooden frame.",
+      "sku": "BO1DOMX8SJ9",
+      "categories": ["Furniture", "Bedroom"],
+      "tags": ["Bed", "King", "Wooden"],
+      "long_description": "This king-size bed offers luxury and comfort with a sturdy wooden frame.",
+      "additional_information": {
+        "weight": "150 lbs",
+        "dimensions": "85 × 80 × 50 in",
+        "product": "Available at bedroom-furniture.com",
+        "color": ["Brown"],
+        "size": ["King"],
+        "model": "Model K",
+        "shipping": "Free shipping",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "LuxuryHome"
+      }
+    },
+    {
+      "id": 40,
+      "name": "Luxury Bed Family",
+      "images": [
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/furniture/product/product4.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-05.png",
+        "https://template-intern.l5elb4sxvvqkvl.flashvps.xyz/Food/ecommerce-html-template-2024-03-12-18-03-53-utc/addina/assets/imgs/product/details/details-06.png"
+      ],
+      "price": "1000.00",
+      "price_sale": "900.00",
+      "discount": "26%",
+      "short_description": "Luxury king-size bed with wooden frame.",
+      "sku": "BO1DOMX8SJ9",
+      "categories": ["Furniture", "Bedroom"],
+      "tags": ["Bed", "King", "Wooden"],
+      "long_description": "This king-size bed offers luxury and comfort with a sturdy wooden frame.",
+      "additional_information": {
+        "weight": "150 lbs",
+        "dimensions": "85 × 80 × 50 in",
+        "product": "Available at bedroom-furniture.com",
+        "color": ["Brown"],
+        "size": ["King"],
+        "model": "Model K",
+        "shipping": "Free shipping",
+        "care_info": "Wipe clean with dry cloth",
+        "brand": "LuxuryHome"
+      }
+    }
+  ]
+}
